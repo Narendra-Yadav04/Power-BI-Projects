@@ -6,12 +6,19 @@ Features: The dashboard highlights policy performance, claim trends, and custome
 Tools & Techniques: Power BI, DAX, Data Modeling, and advanced Data Visualization techniques were utilized to create interactive and insightful visuals.
 Business Impact: Empowered strategic decision-making by presenting complex data in an intuitive format, enhancing operational efficiency and fostering data-driven decisions.
 
+![Insurance_Analytics_Dashboard](https://github.com/user-attachments/assets/a9998d7a-842e-401f-b93f-5b1cf2bde76e)
+
+
 **Student Purchase Insights Dashboard**
 This project focuses on analyzing student spending patterns across different store settings and locations using Power BI.
 
 Features: A variety of visualizations, including bar charts, pie charts, scatter plots, and tables, were incorporated to uncover insights into age-wise preferences and category-wise purchases, providing a deeper understanding of consumer behavior.
 Tools & Techniques: Leveraged Power BI, DAX, and advanced visualization techniques to build a dynamic and user-friendly dashboard.
 Business Impact: Helped refine marketing strategies by identifying key spending trends and preferences among the student demographic.
+
+![Student Purchase Insights](https://github.com/user-attachments/assets/0dafee35-7305-4ee2-a9db-1f7de6e4d458)
+
+
 
 **Highlights**
 Interactive Dashboards: Screenshots and descriptions of the dashboards demonstrate their functionality and utility.
