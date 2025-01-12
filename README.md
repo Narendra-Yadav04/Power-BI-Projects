@@ -16,7 +16,8 @@ Features: A variety of visualizations, including bar charts, pie charts, scatter
 Tools & Techniques: Leveraged Power BI, DAX, and advanced visualization techniques to build a dynamic and user-friendly dashboard.
 Business Impact: Helped refine marketing strategies by identifying key spending trends and preferences among the student demographic.
 
-![Student Purchase Insights](https://github.com/user-attachments/assets/0dafee35-7305-4ee2-a9db-1f7de6e4d458)
+![Student Purchase Insights](https://github.com/user-attachments/assets/f2404292-d545-4cf0-a1a5-1fd750f7b51e)
+
 
 
 
